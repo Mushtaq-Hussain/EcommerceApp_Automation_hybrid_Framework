@@ -1,0 +1,6 @@
+07/04/2023 04:48:49 PM: INFO:test_searchCustomer: *****Test_003_SearchCustomerByEmail*****
+07/04/2023 04:48:57 PM: INFO:test_searchCustomer: *****Login Successful*****
+07/04/2023 04:48:58 PM: INFO:test_searchCustomer: *****Search Customer Page Displayed*****
+07/04/2023 04:48:58 PM: INFO:test_searchCustomer: *****Providing Customer Email*****
+07/04/2023 04:48:58 PM: INFO:test_searchCustomer: *****Customer searched by Email Completed*****
+07/04/2023 04:48:58 PM: INFO:test_searchCustomer: *****Start Search Validation*****
